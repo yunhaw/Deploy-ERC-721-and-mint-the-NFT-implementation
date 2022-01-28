@@ -7,9 +7,9 @@
 
 ---
 # Outline
-> HackMD
-> GitHub
-> Referece
+> * HackMD
+> * GitHub
+> * Referece
 1. Environment and tools
 2. Introduction
 3. Implementation
