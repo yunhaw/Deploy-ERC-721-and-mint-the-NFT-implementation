@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Maltipoo"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Mocha"
+      }
+    ],
+    "description": "Raheem's NFT test.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcsD8eMBcRWS6VbSXCXQwPTjKq1SAAv2Z2AzZiirpNf8R",
+    "name": "Ramses"
+  }
+  
