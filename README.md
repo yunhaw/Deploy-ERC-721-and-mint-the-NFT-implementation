@@ -446,7 +446,7 @@ $ npx hardhat --network ropsten run scripts/deploy.js
 > * Pinata 官方網站： https://app.pinata.cloud
 > * Pinata 為協助上傳 NFT 數位內容至 IPFS 的服務平台
 
-* 註冊 Pinata帳號
+* 註冊 Pinata 帳號
 
 ![](https://i.imgur.com/brF7GY1.png)
 
