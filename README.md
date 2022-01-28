@@ -7,6 +7,7 @@
 
 ---
 # Outline
+> HackMD
 > GitHub
 > Referece
 1. Environment and tools
@@ -14,13 +15,16 @@
 3. Implementation
 4. Conclusions
 
+## HackMD
+> * https://hackmd.io/@Raheem/HJXMl8eCK
+
 ## GitHub 
-* https://github.com/yunhaw/Deploy-ERC-721-and-mint-the-NFT-implementation
-* 下載後請將資料夾名稱改為：my-nft
-* [ .env ] 檔案內的 key 請自行填入
-* 智能合約與腳本內的地址與網址請自行更改
-* 因上傳檔案數限制，[ node_modules ] 資料夾為空 
-    * 請自行透過 npm 安裝相關套件
+> * https://github.com/yunhaw/Deploy-ERC-721-and-mint-the-NFT-implementation
+> * 下載後請將資料夾名稱改為：my-nft
+> * [ .env ] 檔案內的 key 請自行填入
+> * 智能合約與腳本內的地址與網址請自行更改
+> * 因上傳檔案數限制，[ node_modules ] 資料夾為空 
+> > * 請自行透過 npm 安裝相關套件
 
 ## Referece
 > * Source：https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/
